@@ -1,0 +1,417 @@
+[
+  {
+    "name": "ai-behavior-trees-utility-ai",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "audio-design",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "bevy-ecs",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "camera-systems",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "card-game",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "codeart2d",
+    "source": "https://github.com/0x0funky/agent-sprite-forge",
+    "license": "MIT"
+  },
+  {
+    "name": "create-game-assets",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "dialogue-systems",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "fps-shooter",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "game-ai",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "game-cinematic-production",
+    "source": "Project production workflows developed with ChatGPT",
+    "license": "MIT"
+  },
+  {
+    "name": "game-feel",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "game-jam",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "game-music-production",
+    "source": "Project production workflows developed with ChatGPT",
+    "license": "MIT"
+  },
+  {
+    "name": "game-production-director",
+    "source": "Project production workflows developed with ChatGPT",
+    "license": "MIT"
+  },
+  {
+    "name": "game-ui-ux",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "generate2dmap",
+    "source": "https://github.com/0x0funky/agent-sprite-forge",
+    "license": "MIT"
+  },
+  {
+    "name": "generate2dmedia",
+    "source": "https://github.com/0x0funky/agent-sprite-forge",
+    "license": "MIT"
+  },
+  {
+    "name": "generate2dsprite",
+    "source": "https://github.com/0x0funky/agent-sprite-forge",
+    "license": "MIT"
+  },
+  {
+    "name": "godot-2d-movement",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "godot-3d-essentials",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "godot-animation",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "godot-audio",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "godot-csharp",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "godot-export",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "godot-gdscript",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "godot-gdscript-headless-testing",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "godot-multiplayer",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "godot-nodes-scenes",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "godot-physics",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "godot-resources",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "godot-shaders",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "godot-signals-groups",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "godot-tilemap",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "godot-ui-control",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "input-systems",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "itch-publish",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "level-design",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "love2d-core",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "performance-optimization",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "phaser-arcade-physics",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "phaser-core",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "physics-tuning",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "pixijs-rendering",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "platformer",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "procedural-gen",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "prototype-fast",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "puzzle",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "pygame-core",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "roblox-datastores",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "roblox-luau",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "roblox-networking",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "roblox-physics",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "roblox-studio-workflow",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "roblox-ui",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "roguelike",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "router",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "rpg",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "save-systems",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "shader-programming",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "star-dawn-survivors-production",
+    "source": "Project production workflows developed with ChatGPT",
+    "license": "MIT"
+  },
+  {
+    "name": "steam-publish",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "survival-crafting",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "threejs-gltf-loading",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "threejs-materials-lighting",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "threejs-scene-setup",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "tower-defense",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "unity-animation",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "unity-build-pipeline",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "unity-csharp-scripting",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "unity-input-system",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "unity-navmesh",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "unity-physics",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "unity-scriptableobjects",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "unity-tilemap-2d",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "unreal-behavior-trees",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "unreal-blueprints",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "unreal-cpp-gameplay",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "unreal-enhanced-input",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "unreal-niagara",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "unreal-packaging",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "video2dsprite",
+    "source": "https://github.com/0x0funky/agent-sprite-forge",
+    "license": "MIT"
+  },
+  {
+    "name": "visual-novel",
+    "source": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "license": "Apache-2.0"
+  }
+]

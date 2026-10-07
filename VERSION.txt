@@ -1,0 +1,7 @@
+Game Production Skills Portable
+Version: 1.0.1
+Built: 2026-10-07
+Base game-development skills: 79
+Custom production skills: 4
+Total skills: 83
+Targets: Codex / Claude Code / any Agent Skills-compatible reader
